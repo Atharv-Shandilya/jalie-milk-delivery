@@ -5,7 +5,7 @@ import { Text } from "react-native";
 
 export default function Index() {
   return (
-    <ScreenLayout>
+    <ScreenLayout header="Dashboard">
       <Text>Dashboarad</Text>
     </ScreenLayout>
   );
